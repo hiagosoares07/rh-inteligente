@@ -17,15 +17,15 @@ O Tailwind CSS usado nas páginas é carregado pelo CDN; não é necessário ins
 
 ## Instalação e execução
 
-Os comandos abaixo devem ser executados a partir da raiz do repositório (a pasta que contém `README.md` e a pasta `altius`). O ambiente virtual e as dependências são instalados na máquina local.
+Os comandos abaixo devem ser executados a partir da raiz do repositório (a pasta que contém `README.md` e a pasta `rh-smart`). O ambiente virtual e as dependências são instalados na máquina local.
 
 ### Windows (PowerShell)
 
 1. Clone o repositório e entre na pasta do projeto:
 
    ```powershell
-   git clone https://github.com/Vict0r-08/JornadaAprendizagem26s2.git
-   cd JornadaAprendizagem26s2
+   git clone https://github.com/hiagosoares07/rh-inteligente.git
+   cd rh-smart
    ```
 
    Se o projeto já estiver clonado, apenas abra o PowerShell na raiz do repositório.
