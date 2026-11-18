@@ -87,8 +87,8 @@ A navbar e a sidebar das duas visões reutilizam os templates em `altius/templat
 1. Clone o repositório e entre na pasta do projeto:
 
    ```bash
-   git clone https://github.com/Vict0r-08/JornadaAprendizagem26s2.git
-   cd JornadaAprendizagem26s2
+   git clone https://github.com/hiagosoares07/rh-inteligente.git
+   cd  rh-smart
    ```
 
    Se o projeto já estiver clonado, apenas abra um terminal na raiz do repositório.
